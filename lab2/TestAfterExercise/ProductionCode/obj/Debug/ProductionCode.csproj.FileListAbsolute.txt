@@ -1,0 +1,4 @@
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\ProductionCode\bin\Debug\ProductionCode.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\ProductionCode\bin\Debug\ProductionCode.pdb
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\ProductionCode\obj\Debug\ProductionCode.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\ProductionCode\obj\Debug\ProductionCode.pdb

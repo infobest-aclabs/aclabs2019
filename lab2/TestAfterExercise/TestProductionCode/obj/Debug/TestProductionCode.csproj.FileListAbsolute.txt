@@ -1,0 +1,13 @@
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\TestProductionCode.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\TestProductionCode.pdb
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\ProductionCode.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\ProductionCode.pdb
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\obj\Debug\TestProductionCode.csprojResolveAssemblyReference.cache
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\obj\Debug\TestProductionCode.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\obj\Debug\TestProductionCode.pdb
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\Castle.Core.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\Moq.dll
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\Castle.Core.xml
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\Moq.pdb
+C:\Users\gabriela_fischmann\Desktop\code\aclabs\lab2\TestAfterExercise\TestProductionCode\bin\Debug\Moq.xml
