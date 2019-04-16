@@ -1,0 +1,10 @@
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\BowlingGame.exe
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\BowlingGame.pdb
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\BowlingGameTest.csprojAssemblyReference.cache
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\BowlingGameTest.csproj.CoreCompileInputs.cache
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\BowlingGameTest.csproj.CopyComplete
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,18 @@
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\bin\Debug\BowlingGame.exe
+c:\users\gabriela_fischmann\documents\visual studio 2015\Projects\Bowling\UnitTestProject1\bin\Debug\BowlingGame.pdb
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\BowlingGame.exe
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\bin\Debug\BowlingGame.pdb
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Gabitza\Desktop\labs\aclabs\lab3\Bowling\Bowling\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
